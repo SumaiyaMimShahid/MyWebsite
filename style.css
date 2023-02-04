@@ -1,0 +1,155 @@
+.firstNavBar{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+.firstNavBar li{
+	float: left;
+}
+
+.firstNavBar li a:not(.logo){
+	display: block;
+	text-decoration: none;
+	padding: 30px 5px 30px 5px;
+	color: black;
+}
+
+.firstNavBar li a:not(.logo):hover{
+	color: #856663;
+}
+
+.firstNavBar li:first-child{
+	padding: 0 600px 0 30px;
+}
+
+i{
+	color: green;
+}
+.sec2{
+	clear: both;
+}
+
+.secnav2{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background-color: #282e3f;
+	overflow: hidden;
+}
+
+.secnav2 li{
+	float: left;
+	padding: 10px;
+}
+
+.secnav2 a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+
+.secnav2 input:nth-child(2){
+	background-color: #457947;
+	border: 2px solid #457947;
+}
+.sec4{
+	text-align: center;
+	padding: 0 300px;
+}
+.sec5{
+	padding: 0 20px;
+}
+.sec5 div{
+	float: left;
+	width: 48%;
+	margin: 5px;
+}
+
+.sec6{
+	clear: both;
+	padding: 10px;
+}
+
+.sec6 .sec6div{
+	float: left;
+	width: 31%;
+	margin: 10px;
+}
+
+.sec7{
+	clear: both;
+	padding: 10px;
+}
+
+.sec7 .sec7div{
+	float: left;
+	width: 31%;
+	margin: 10px;
+}
+
+.sec8{
+	clear: both;
+	padding: 10px;
+}
+.sec8 div{
+	float: left;
+	margin: 0 10px;
+}
+.sec8 .sec8div1{
+	width: 28%;
+}
+
+.sec8 .sec8div2{
+	width: 18%;
+}
+
+.sec8 .sec8div3{
+	width: 13%;
+}
+.sec8_1{
+	padding: 0 10%;
+}
+
+.sec8_1 h1{
+
+	padding: 10px 0;
+	margin: 0;
+	font-size: 40px;
+	color: green;
+}
+.sec9{
+	padding: 5px 10px;
+}
+.sec9 div{
+	width: 50%;
+	float: left;
+}
+footer{
+	clear: both;
+	overflow: hidden;
+	background-color: #34373c;
+}
+
+footer div{
+	width: 19%;
+	float: left;
+}
+
+
+footer div ul{
+	list-style-type: none;
+}
+
+footer div li:nth-child(1){
+	color: white;
+	padding: 10px 0;
+}
+
+footer div li a{
+	color: #767d88;
+	text-decoration: none;
+	padding: 5px 0;
+}
